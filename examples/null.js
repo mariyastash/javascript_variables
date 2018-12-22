@@ -1,0 +1,1 @@
+var myNull = null;
